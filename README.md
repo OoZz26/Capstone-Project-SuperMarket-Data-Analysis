@@ -37,7 +37,7 @@ The project utilizes the "Supermarket Sales" dataset, which includes transaction
 
 ### Data Wrangling Notebook
 
-- **Data_Wrangling.ipynb**: A Jupyter notebook that details the data cleaning and preprocessing steps taken to prepare the dataset for analysis.
+- **capstpne_project_wrangling_final**: A Jupyter notebook that details the data cleaning and preprocessing steps taken to prepare the dataset for analysis.
 
 ### Data Wrangling Report
 
