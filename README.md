@@ -49,7 +49,7 @@ The project utilizes the "Supermarket Sales" dataset, which includes transaction
 
 ### Paginated Report using Power BI
 
-- **Paginated_Report.pbix**: A Power BI report providing detailed, paginated insights into the supermarket sales data.
+- **capstpne_project_final.pbix**: A Power BI report providing detailed, paginated insights into the supermarket sales data.
 
 ## Prerequisites
 
