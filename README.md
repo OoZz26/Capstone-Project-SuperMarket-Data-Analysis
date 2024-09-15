@@ -79,14 +79,14 @@ To set up the project on your local machine, follow these steps:
    jupyter notebook
    ```
 
-   In the Jupyter Notebook interface, navigate to the `Notebooks` folder and open `Data_Wrangling.ipynb`.
+   In the Jupyter Notebook interface, navigate to the `Notebooks` folder and open `capstpne_project_wrangling_final.ipynb`.
 
 3. **Open the Power BI Report**
 
    To explore interactive visualizations, open the Power BI report:
 
    1. Open **Power BI Desktop**.
-   2. Load the file `Paginated_Report.pbix`.
+   2. Load the file `capstpne_project_final.pbix`.
 
 ## Results and Insights
 
